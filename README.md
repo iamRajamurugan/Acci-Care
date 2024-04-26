@@ -1,30 +1,11 @@
-# Acci-Care
-A Software and Hardware integrated project to detect and report accidents Instantaneously.
+# Recommended next steps:
+Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
 
-**Accicare: Enhancing Motorcycle Safety**
-
-Accicare is a cutting-edge hardware-software solution aimed at detecting and responding to motorcycle accidents swiftly. By integrating advanced sensors and machine learning models, Accicare offers real-time accident detection, emergency response initiation, and valuable insights for improving road safety.
-
-**Key Features:**
-
-- Accident Detection and Alert: Utilizes sensors to detect accidents and triggers a 20-second alert with vibration, sound, and visual cues.
-- Enhanced Emergency Response: Automatically initiates emergency calls with precise location data to expedite medical assistance.
-- Mobile App for Safety: User-friendly app for real-time tracking, emergency call initiation, and hospital suggestions.
-- Community Support: Platform for blood donation requests, volunteer coordination, and sharing road safety tips.
-- Speed Limit Indication: Real-time display of speed limits with alerts for exceeding limits in high-risk zones.
-
-**Benefits:**
-
-- Reduced accident mortality and morbidity.
-- Improved emergency response times.
-- Data-driven road safety improvements.
-- Reduced unnecessary ambulance calls.
-- Stronger user community support.
-
-**Business Model:**
-
-- Partnerships with motorcycle manufacturers, insurance companies, and healthcare providers.
-- Data analytics services for stakeholders.
-- Software-only option for wider accessibility.
-
-Accicare offers a comprehensive solution to combat motorcycle accidents, prioritizing early detection, swift response, and community support for enhanced safety on the roads.
+### To preview and run the project on your device:
+1. Open project folder in <u>Visual Studio Code</u>
+2. Run  `npm install`  in the terminal
+3. Run  `npx expo start`  in the terminal
+4. Run on For iOS device (only on MacOS)
+    1. Press  `i`  to view on iOS simulator or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
+5. Run on For android device
+    1. Press  `a`  to view on Android Virtual Device or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
